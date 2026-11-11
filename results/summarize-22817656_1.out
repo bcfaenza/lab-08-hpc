@@ -1,0 +1,5 @@
+INFO Task 1: processing book pg1013.txt from path /sfs/weka/scratch/jgr5xq/books/pg1013.txt
+INFO Running Qwen/Qwen2.5-1.5B-Instruct on cuda
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 32629.23it/s]
+INFO Finished summarizing key=pg1013.txt, genre=science fiction in 4.65 seconds
+Summarized pg1013.txt in 4.6 s on udc-aw37-1

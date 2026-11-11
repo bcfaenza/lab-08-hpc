@@ -1,0 +1,12 @@
+Job ID: 22817656
+Array Job ID: 22817656_101
+Cluster: shen
+User/Group: jgr5xq/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 2
+CPU Utilized: 00:00:10
+CPU Efficiency: 35.71% of 00:00:28 core-walltime
+Job Wall-clock time: 00:00:14
+Memory Utilized: 1.38 GB
+Memory Efficiency: 8.61% of 16.00 GB (16.00 GB/node)
